@@ -8,7 +8,7 @@
 
   ---
 
-  [![CIMC President](https://img.shields.io/badge/CIMC-President-8b5cf6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=)](https://cimcreview.com)
+  [![CIMC Research Fellow](https://img.shields.io/badge/CIMC-Research_Fellow-8b5cf6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=)](https://cimcreview.com)
   [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=fractastical)
   [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4948--9192-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4948-9192)
 
@@ -28,7 +28,7 @@
   ### Key Roles
 
   - 🔬 **Ethereum Co-creator** — Co-authored the ERC-20 token standard that powers the modern DeFi ecosystem; early Ethereum contributor and MetaCurrency pioneer
-  - 🧠 **CIMC Founder & President** — California Institute of Machine Consciousness ([cimcreview.com](https://cimcreview.com)); research on artificial sentience, active inference, philosophy of mind
+  - 🧠 **CIMC Founder & Research Fellow** — California Institute of Machine Consciousness ([cimcreview.com](https://cimcreview.com)); research on artificial sentience, active inference, philosophy of mind
   - 🌿 **Bioelectricity Researcher** — [bioelectricitynexus.com](https://bioelectricitynexus.com) — exploring bioelectric morphogenesis and the computational substrate of living systems
   - 🎨 **NFT Pioneer & Digital Artist** — Early NFT artist; fractal and generative art practitioner; large-scale art installations
   - 🐜 **Computational Biology** — Morphospace, artificial life, and collective intelligence research
