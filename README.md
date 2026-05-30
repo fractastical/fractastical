@@ -44,7 +44,7 @@
   | [**Bioelectricity Nexus**](https://bioelectricitynexus.com) | RESEARCH | Bioelectric morphogenesis and collective cellular intelligence |
   | [**distributed-governance**](https://github.com/fractastical/distributed-governance) | GITHUB | Definitions and bibliographies for governance, blockchains, law, and consciousness |
   | [**Etherea**](https://github.com/fractastical/etherea) | GITHUB | Multiverse, ethereum, mars, ai exploration |
-  | **ERC-20 Standard** | ETHEREUM | Co-authored the token standard powering modern DeFi |
+  | **EtherCasts** | ETHEREUM | The first smart contract educational channel |
 
   ---
 
