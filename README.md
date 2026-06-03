@@ -27,8 +27,8 @@
 
   ### Key Roles
 
-  - 🔬 **Ethereum Co-creator** — Co-authored the ERC-20 token standard that powers the modern DeFi ecosystem; early Ethereum contributor and MetaCurrency pioneer
-  - 🧠 **CIMC Founder & Research Fellow** — California Institute of Machine Consciousness ([cimcreview.com](https://cimcreview.com)); research on artificial sentience, active inference, philosophy of mind
+  - 🔬 **Ethereum Co-creator** — Co-created first smart contract educational channel (EtherCasts); early Ethereum contributor and alternative economics pioneer
+  - 🧠 **CIMC Research Fellow** — California Institute of Machine Consciousness ([cimcreview.com](https://cimcreview.com)); research on artificial sentience, active inference, philosophy of mind
   - 🌿 **Bioelectricity Researcher** — [bioelectricitynexus.com](https://bioelectricitynexus.com) — exploring bioelectric morphogenesis and the computational substrate of living systems
   - 🎨 **NFT Pioneer & Digital Artist** — Early NFT artist; fractal and generative art practitioner; large-scale art installations
   - 🐜 **Computational Biology** — Morphospace, artificial life, and collective intelligence research
