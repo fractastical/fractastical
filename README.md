@@ -1,13 +1,96 @@
 # Joel Dietz
 
-**Computational Creativity · Machine Consciousness · Digital Art**  
-*Active Inference · Bioelectricity · Distributed Governance · Fractal Geometry*
+**Applied AI Researcher · Systems Architect · Founder**
 
-Available for **AI research consulting**, **speaking**, and **collaboration**.
+I build tools and research programs at the edge of **AI**, **bioelectricity**, **machine consciousness**, **collective intelligence**, and **computational governance**.
+
+My work focuses on a simple question:
+
+> How do intelligent systems emerge, coordinate, adapt, and scale — across minds, machines, cells, markets, and institutions?
+
+I am especially interested in systems that move from theory into implementation: simulations, agent architectures, research tooling, knowledge graphs, governance protocols, and experimental interfaces for new forms of intelligence.
 
 ---
 
-[![CIMC Research Fellow](https://img.shields.io/badge/CIMC-Research%20Fellow-8b5cf6?style=flat-square)](https://cimcreview.com)
+## Current Work
+
+- **Machine consciousness**  
+  Active inference, self-modeling agents, artificial sentience, computational phenomenology
+
+- **Bioelectricity & morphogenesis**  
+  Bioelectric signaling, regenerative systems, cellular intelligence, programmable form
+
+- **Collective intelligence**  
+  Coordination systems, governance protocols, decentralized institutions, group cognition
+
+- **Computational creativity**  
+  Generative systems, digital art, symbolic tools, creative AI workflows
+
+- **Complex systems simulation**  
+  Social, economic, biological, and institutional modeling
+
+---
+
+## Selected Projects
+
+| Project | Description |
+|---|---|
+| [CIMC Philosophy Review](https://cimcreview.com) | Research publication focused on machine consciousness, active inference, and philosophy of mind |
+| [Bioelectricity Nexus](https://bioelectricitynexus.com) | Research network and knowledge hub for bioelectricity, morphogenesis, and regenerative biology |
+| [distributed-governance](https://github.com/fractastical/distributed-governance) | Definitions, bibliographies, and research notes on governance, blockchains, law, and coordination |
+| [Etherea](https://github.com/fractastical/etherea) | Speculative systems project exploring Ethereum, Mars, AI, multiverses, and future civilization design |
+| EtherCasts | Early Ethereum education and smart-contract ecosystem work |
+
+---
+
+## What I Build
+
+I am interested in projects that require both technical implementation and conceptual depth:
+
+- AI research tools
+- Agent systems and cognitive architectures
+- Scientific knowledge graphs
+- Bioelectricity and morphogenesis research infrastructure
+- Governance and coordination protocols
+- Simulation environments
+- Generative art systems
+- Research publications and technical strategy
+
+---
+
+## Why This Matters
+
+The next generation of AI will not only be about larger models.
+
+It will involve systems that can:
+
+- model themselves
+- coordinate with other agents
+- integrate biological and computational intelligence
+- reason across scientific domains
+- participate in governance and collective decision-making
+- generate new structures, interfaces, and institutions
+
+That is the frontier I work on.
+
+---
+
+## Available For
+
+I selectively collaborate on:
+
+- AI research consulting
+- machine consciousness and agent architecture projects
+- bioelectricity / morphogenesis research initiatives
+- computational governance systems
+- complex systems modeling
+- technical writing and research synthesis
+- talks, workshops, and advisory work
+
+---
+
+## Links
+
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=0oUAGJkAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4948--9192-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4948-9192)
 [![Website](https://img.shields.io/badge/Website-fractastical.org-00FFFF?style=flat-square&logo=googlechrome&logoColor=black)](https://fractastical.org)
@@ -16,54 +99,4 @@ Available for **AI research consulting**, **speaking**, and **collaboration**.
 
 ---
 
-## About
-
-I work at the intersection of **fractals**, **computational creativity**, **machine consciousness**, **bioelectricity**, and **distributed governance** — building tools, research programs, and artworks that explore mathematics, code, living systems, and consciousness.
-
----
-
-## Focus Areas
-
-- **Machine consciousness** — artificial sentience, active inference, and philosophy of mind
-- **Computational creativity** — generative systems, digital art, and creative AI
-- **Bioelectricity** — morphogenesis, collective intelligence, and living computation
-- **Distributed governance** — blockchains, coordination systems, and alternative economics
-- **Fractal geometry** — mathematical aesthetics, code, and visual form
-
----
-
-## Selected Projects
-
-| Project | Area | Description |
-|---|---|---|
-| [CIMC Philosophy Review](https://cimcreview.com) | Research journal | Artificial sentience, active inference, and philosophy of mind |
-| [Bioelectricity Nexus](https://bioelectricitynexus.com) | Research | Bioelectric morphogenesis and collective cellular intelligence |
-| [distributed-governance](https://github.com/fractastical/distributed-governance) | GitHub | Definitions and bibliographies for governance, blockchains, law, and consciousness |
-| [Etherea](https://github.com/fractastical/etherea) | GitHub | Multiverse, Ethereum, Mars, AI, and speculative systems |
-| EtherCasts | Ethereum | Early smart-contract education and Ethereum ecosystem work |
-
----
-
-## Work With Me
-
-I’m interested in collaborations around:
-
-- AI consciousness and active inference
-- Computational creativity and digital art
-- Bioelectricity, morphogenesis, and artificial life
-- Distributed governance and coordination systems
-- Research writing, talks, and speculative design
-
----
-
-## Links
-
-**Website:** [fractastical.org](https://fractastical.org)  
-**GitHub:** [github.com/fractastical](https://github.com/fractastical)  
-**Google Scholar:** [Joel Dietz](https://scholar.google.com/citations?user=0oUAGJkAAAAJ)  
-**ORCID:** [0009-0007-4948-9192](https://orcid.org/0009-0007-4948-9192)  
-**X:** [@jdietz](https://x.com/jdietz) / [@fractastical](https://x.com/fractastical)
-
----
-
-> Lover of fractals, code, poetry, morphospace, artificial life, and consciousness.
+> Fractals, agents, morphogenesis, governance, artificial life, and consciousness.
