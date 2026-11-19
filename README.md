@@ -1,10 +1,10 @@
 # Joel Dietz
 
-**Applied AI Researcher · Computational Artist · Systems Architect · Founder**
+**Applied AI Researcher · Formal Methods for Biology · Computational Artist · Systems Architect · Founder**
 
 I design systems for understanding and building **intelligence across scales**—from artificial agents and biological cells to markets, institutions, and cultures.
 
-My work spans **artificial intelligence**, **machine consciousness**, **bioelectricity**, **collective intelligence**, **computational governance**, and **computational art**. Across these domains, I build research infrastructure, software, simulations, and artworks that explore how intelligent systems emerge, coordinate, adapt, and create.
+My work spans **formal methods for biology**, **artificial intelligence**, **machine consciousness**, **bioelectricity**, **collective intelligence**, **computational governance**, and **computational art**. Across these domains, I build research infrastructure, software, simulations, and artworks that explore how intelligent systems emerge, coordinate, adapt, and create.
 
 Rather than separating science, engineering, and art, I see them as complementary approaches to the same questions. Research develops theory, software turns ideas into working systems, and art makes complex phenomena visible and experiential.
 
@@ -19,6 +19,7 @@ Rather than separating science, engineering, and art, I see them as complementar
 [![X](https://img.shields.io/badge/X-@jdietz-000000?style=flat-square&logo=x)](https://x.com/jdietz)
 [![X](https://img.shields.io/badge/X-@fractastical-000000?style=flat-square&logo=x)](https://x.com/fractastical)
 
+![Formal Methods](https://img.shields.io/badge/Formal%20Methods-Lean%20for%20Biology-1B4D3E?style=flat-square)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial-Intelligence-6A5ACD?style=flat-square)
 ![Machine Consciousness](https://img.shields.io/badge/Machine-Consciousness-4169E1?style=flat-square)
 ![Bioelectricity](https://img.shields.io/badge/Bioelectricity-Morphogenesis-2E8B57?style=flat-square)
@@ -29,6 +30,10 @@ Rather than separating science, engineering, and art, I see them as complementar
 ---
 
 # Research Areas
+
+## Formal methods for biology
+
+Candidate laws of living things, stated so each one can be proved, tested, or left marked unknown. A mathematical reading is machine-checked in Lean 4 ([leanbio](https://github.com/fractastical/leanbio)). An empirical reading is pre-registered, then tested against public data. Claims, tests, and assessments are published as signed nanopublications. A proof shows that a statement follows from its assumptions. Whether an organism meets those assumptions is a separate record. [delphibio.org](https://delphibio.org) · [delphi](https://github.com/fractastical/delphi)
 
 ## 🧠 Artificial Intelligence & Machine Consciousness
 
@@ -56,6 +61,7 @@ Creating generative artworks, audiovisual systems, symbolic interfaces, installa
 
 | Project | Description |
 |---------|-------------|
+| **[Delphi](https://delphibio.org)** | Candidate laws of biology. Lean 4 where the claim is mathematics ([leanbio](https://github.com/fractastical/leanbio)), a pre-registered test where it is empirical, and a signed nanopublication for each record. |
 | 🌱 **[Bioelectricity Nexus](https://bioelectricitynexus.com)** | Research platform connecting scientists, engineers, clinicians, and entrepreneurs exploring bioelectricity, morphogenesis, and regenerative medicine. |
 | 🧠 **[CIMC Philosophy Review](https://cimcreview.com)** | Publication exploring machine consciousness, philosophy of mind, active inference, and artificial agency. |
 | 🤝 **[Cooperation Engine](https://cooperationengine.org)** | Open benchmark and research platform for cooperation, collective intelligence, and AI coordination. |
@@ -115,6 +121,7 @@ Some of the questions guiding my work include:
 
 - How do intelligent systems construct models of themselves?
 - How do biological and artificial intelligence converge?
+- Which claims about living things can be proved, which can be tested, and which are still unknown?
 - How do cells coordinate to build living organisms?
 - How do groups become coherent collective intelligences?
 - How can simulations become scientific instruments?
@@ -125,6 +132,7 @@ Some of the questions guiding my work include:
 
 # Currently Exploring
 
+- Formal methods for biology
 - 🧠 Machine Consciousness
 - ⚡ Bioelectricity
 - 🌱 Morphogenesis
@@ -147,6 +155,7 @@ I collaborate with researchers, artists, founders, laboratories, universities, a
 - Machine Consciousness
 - Complex Systems
 - Computational Governance
+- Formal methods for biology
 - Scientific Research Infrastructure
 - Computational Art
 - Research Strategy
